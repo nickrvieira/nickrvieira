@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Nícolas Vieira
 [![Linkedin Badge](https://img.shields.io/badge/-nicolasrvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasrvieira//)](https://www.linkedin.com/in/nicolasrvieira/)
 
-### Hello everyone 🙋! 
+### Hello everyone! 
 
-I'm Nicolas (but you can call me Nick or naniviaa), I'm a Data Engineer based in São Paulo/Brazil 🌆
+I'm Nicolas (but you can call me Nick or naniviaa) and I'm currently a Data Engineer based in São Paulo/Brazil 🌆
 
 - 💻 &nbsp; I'm currently working for [@EscaleTech](https://github.com/escaletech).
 - 🌴 &nbsp; I love plants and I'm probably living with 40+ different species.
