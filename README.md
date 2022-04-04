@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm Nicolas (but you can call me Nick or naniviaa) and I'm currently a Data Engineer based in São Paulo/Brazil 🌆
 
-- 💻 &nbsp; I'm currently working for [@EscaleTech](https://github.com/escaletech).
+- 💻 &nbsp; I'm currently working for [@idwall](https://github.com/idwall).
 - 🌴 &nbsp; I love plants and I'm probably living with 40+ different species.
 - :octocat:&nbsp; I have two lovely adopted cats: _Ciri_ (Yes, Witcher 3) and _Vorti_ (Short for Vortigaunt - Half Life)
 - 💬 &nbsp; I like chit-chatting about: Plants, Cyclism and Wines;
