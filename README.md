@@ -26,5 +26,3 @@ I'm Nicolas (but you can call me Nick or naniviaa) and I'm currently a Data Engi
 - 💬 &nbsp; I like chit-chatting about: Plants, Cyclism and Wines;
 - :basecamp:&nbsp; Techs: Python, Scala, Docker, Kubernetes, Spark, Kafka and Terraform.
 - 🧮&nbsp; Learning Go;
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnickrvieira&count_bg=%23FF9900&title_bg=%23969292&icon=inkscape.svg&icon_color=%231B5BC4&title=views&edge_flat=false)
